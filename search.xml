@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>linux上搭建AndroidSDK环境</title>
+      <link href="/2020/03/30/linux%E4%B8%8A%E6%90%AD%E5%BB%BAAndroidSDK%E7%8E%AF%E5%A2%83/"/>
+      <url>/2020/03/30/linux%E4%B8%8A%E6%90%AD%E5%BB%BAAndroidSDK%E7%8E%AF%E5%A2%83/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Linux上通过命令行搭建AndroidSDK编译环境"><a href="#Linux上通过命令行搭建AndroidSDK编译环境" class="headerlink" title="Linux上通过命令行搭建AndroidSDK编译环境"></a>Linux上通过命令行搭建AndroidSDK编译环境</h1><p>像我们平时在自己的电脑上面搭建Android的开发环境基本上都是通过安装AndroidStudio来搭建Android的开发环境的，但是有时候在服务器上面需要搭建一下Android的编译环境，就不可以通过使用AndroidStudio来搭建了，这时候就需要使用命令行工具来下载安装SDK了</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> manjaro </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇博客</title>
       <link href="/2020/03/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/03/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
@@ -11,6 +30,14 @@
         <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><p>历时一周终于搭建起了自己的个人博客。。。</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 个人日志 </tag>
+            
+            <tag> flutter </tag>
+            
+        </tags>
       
     </entry>
     
