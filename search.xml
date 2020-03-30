@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<h1 id="Linux上通过命令行搭建AndroidSDK编译环境"><a href="#Linux上通过命令行搭建AndroidSDK编译环境" class="headerlink" title="Linux上通过命令行搭建AndroidSDK编译环境"></a>Linux上通过命令行搭建AndroidSDK编译环境</h1><p>像我们平时在自己的电脑上面搭建Android的开发环境基本上都是通过安装AndroidStudio来搭建Android的开发环境的，但是有时候在服务器上面需要搭建一下Android的编译环境，就不可以通过使用AndroidStudio来搭建了，这时候就需要使用命令行工具来下载安装SDK了</p>]]></content>
       
       
+      <categories>
+          
+          <category> android </category>
+          
+      </categories>
+      
       
         <tags>
             
